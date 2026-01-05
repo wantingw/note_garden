@@ -2,7 +2,7 @@ name: Deploy Quartz to GitHub Pages
 
 on:
   push:
-    branches: ["v4"]   # change to "main" if you use main
+    branches: ["main"]   # change to "main" if you use main
   workflow_dispatch:
 
 permissions:
